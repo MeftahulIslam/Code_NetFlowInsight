@@ -1,0 +1,11 @@
+OpenAI
+#Can use this OpenAI test api-key
+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
+
+
+
+Hybrid-Analysis
+
+#These are already setup in the backend in Vx-api config
+API Key	skmsi85va8a331f4hs86cw83903134d3zx3fg2tl64f02625ymgexmyn420639e6
+Secret	a71fc27b24d88d99c824fe518ac2437a21572ddb5f783a5f
